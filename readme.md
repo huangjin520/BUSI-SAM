@@ -138,7 +138,7 @@ DSATNet (MP 2025)[Wiley 🔗](https://aapm.onlinelibrary.wiley.com/doi/10.1002/m
 Li Y, Huang J, Zhang Y, et al. Dual branch segment anything model‐transformer fusion network for accurate breast ultrasound image segmentation[J]. Medical Physics.
 ```
 ## 📬 Contact
-For any questions or collaborations, please contact [Jin Huang](mailto:jinhuang@whu.edu.cn) or open an issue on GitHub.
+For any questions or collaborations, please contact [Jin Huang](mailto:jinhuang@whu.edu.cn), [Yimin Zhang](mailto:rm002255@whu.edu.cn) [Yujie Xie](mailto:2023302082004@whu.edu.cn) or open an issue on GitHub.
 
 
 
